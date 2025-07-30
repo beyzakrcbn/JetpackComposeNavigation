@@ -21,6 +21,7 @@ fun SetUpNavHost(navController: NavHostController) {
         }
         composable(Screen.Detail.route) {
             DetailScreen(navController)
+
         }
     }
 }

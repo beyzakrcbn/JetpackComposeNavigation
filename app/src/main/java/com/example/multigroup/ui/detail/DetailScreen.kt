@@ -24,6 +24,7 @@ fun DetailScreen(navController: NavHostController) {
             text = "DetailScreen",
             style = MaterialTheme.typography.labelLarge,
             color = MaterialTheme.colorScheme.error
+
         )
     }
 }

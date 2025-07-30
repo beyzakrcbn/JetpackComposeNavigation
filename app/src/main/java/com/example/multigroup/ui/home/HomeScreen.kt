@@ -24,6 +24,7 @@ fun HomeScreen(navController: NavHostController){
             },
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.secondary
+
         )
     }
 }
