@@ -10,6 +10,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.Alignment
 import com.example.multigroup.ui.route.Screen
 
+
 @Composable
 fun HomeScreen(navController: NavHostController){
     Column(

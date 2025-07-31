@@ -1,7 +1,6 @@
 package com.example.multigroup.ui.detail
 import com.example.multigroup.ui.detail.DetailScreen
 
-
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.MaterialTheme

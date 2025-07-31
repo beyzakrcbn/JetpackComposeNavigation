@@ -10,6 +10,7 @@ import com.example.multigroup.ui.theme.MultiGroupTheme
 import com.example.multigroup.ui.theme.navhost.SetUpNavHost
 import androidx.navigation.NavHostController
 
+
 class MainActivity : ComponentActivity() {
 
     lateinit var navController: NavHostController
