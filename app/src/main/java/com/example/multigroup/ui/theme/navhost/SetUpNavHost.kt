@@ -9,7 +9,6 @@ import com.example.multigroup.ui.detail.DetailScreen
 import androidx.navigation.NavHostController
 
 
-
 @Composable
 fun SetUpNavHost(navController: NavHostController) {
     NavHost(
